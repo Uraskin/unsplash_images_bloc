@@ -1,6 +1,6 @@
-# flicr_test_app
+# Unsplash_test_app
 
-Flicr test application
+Unsplash test application
 
 ## Getting Started
 
